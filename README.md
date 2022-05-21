@@ -17,7 +17,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
 ## Question 1 - Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.
 
-In the dataset provided, there are 17 extreme outlier observations with a value of 2000. A better way to evaluate this data is to remove the extreme outliers as demonstrated in the boxplots below. However, please note only 12 extreme outliers are observed in the boxplots because there are 5 duplicate orders throughout the 30-day period where there are also oberservations of 2000. Please refer to the `Total Outliers Table` screenshot below. Duplicate orders are highlighted in red.
+In the dataset provided, there are 17 extreme outlier observations with a value of 2000. A better way to evaluate this data is to remove the extreme outliers as demonstrated in the boxplots below. However, please note only 12 extreme outliers are observed in the boxplots because there are 5 duplicate extreme outlier orders throughout the 30-day period. Please refer to the `Total Outliers Table` screenshot below. Duplicate orders are highlighted in red.
 
 ## Total Items Outliers Analysis
 
