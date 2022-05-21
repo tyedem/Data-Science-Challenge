@@ -2,7 +2,7 @@
 
 ![Sneaker](Images/sneaker.jpeg)
 
-[Person Holding Nike Sb Suede Low-top Sneaker by Ray Piedra](https://www.pexels.com/photo/person-holding-nike-sb-suede-low-top-sneaker-1503009/) | [Pexels Licensed](https://www.pexels.com/license/)
+*[Person Holding Nike Sb Suede Low-top Sneaker by Ray Piedra](https://www.pexels.com/photo/person-holding-nike-sb-suede-low-top-sneaker-1503009/) | [Pexels Licensed](https://www.pexels.com/license/)*
 
 # Challenge Description
 
