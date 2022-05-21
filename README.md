@@ -6,13 +6,29 @@
 
 # Challenge Description
 
+## Part 1 - Analysis
 On Shopify, we have exactly 100 sneaker shops, and each of these shops sells only one model of shoe. We want to do some analysis of the average order value (AOV). When we look at orders data over a 30 day window, we naively calculate an AOV of $3145.13. Given that we know these shops are selling sneakers, a relatively affordable item, something seems wrong with our analysis. 
 
 1. Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
 2. What metric would you report for this dataset?
 3. What is its value?
 
-# Summary Analysis
+## Part 2 - Queries
+
+For this question you’ll need to use SQL. Follow this [link](https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL) to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
+
+1. How many orders were shipped by Speedy Express in total?
+2. What is the last name of the employee with the most orders?
+3. What product was ordered the most by customers in Germany?
+
+## Code and Requirements
+
+1. For part 1, refer to `analysis.ipynb` which also requires pandas, plotly express and pathlib libraries to run.
+2. For part 2, refer to `queries.sql`
+
+
+
+# Summary Analysis - Part 1
 
 
 ## Question 1 - Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.
@@ -38,3 +54,9 @@ I would report an outlier-adjusted AOV metric by removing the extreme outliers f
 ## Question 3 - What is its value?
 
 The outlier-adjusted AOV metric is $754.09 compared to the naive AOV of $3145.13.
+
+# Challenge Response - Part 2
+
+SQL queries and answers to the questions are captured in the screenshot below:
+
+![queries](Images/queries.png)
